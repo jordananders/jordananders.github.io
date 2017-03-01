@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Custom SharePoint Workflows"
 date:   2015-09-29 11:30:00
 categories: SharePoint Workflows
