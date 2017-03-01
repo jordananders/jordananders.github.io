@@ -1,0 +1,21 @@
+
+.icon-doc:before { content: '\e800'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-rss:before { content: '\f09e'; } /* '' */
+.icon-mail-alt:before { content: '\f0e0'; } /* '' */
+.icon-linkedin:before { content: '\f0e1'; } /* '' */
+.icon-github:before { content: '\f113'; } /* '' */
+.icon-youtube:before { content: '\f167'; } /* '' */
+.icon-stackoverflow:before { content: '\f16c'; } /* '' */
+.icon-windows:before { content: '\f17a'; } /* '' */
+.icon-file-pdf:before { content: '\f1c1'; } /* '' */
+.icon-file-word:before { content: '\f1c2'; } /* '' */
+.icon-file-excel:before { content: '\f1c3'; } /* '' */
+.icon-file-powerpoint:before { content: '\f1c4'; } /* '' */
+.icon-file-image:before { content: '\f1c5'; } /* '' */
+.icon-file-archive:before { content: '\f1c6'; } /* '' */
+.icon-file-audio:before { content: '\f1c7'; } /* '' */
+.icon-file-video:before { content: '\f1c8'; } /* '' */
+.icon-file-code:before { content: '\f1c9'; } /* '' */
+.icon-reddit-alien:before { content: '\f281'; } /* '' */
+.icon-podcast:before { content: '\f2ce'; } /* '' */

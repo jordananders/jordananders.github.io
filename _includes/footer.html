@@ -1,0 +1,46 @@
+<footer>
+  <div class="wrapper">
+    <ul class="social-media-list">
+      {% if site.github_username %}
+      <li>
+        <a href="https://github.com/{{ site.github_username }}">
+          <i class="icon-github"></i>
+          <span>{{ site.github_username }}</span>
+        </a>
+      </li>
+      {% endif %}
+      {% if site.twitter_username %}
+      <li>
+        <a href="https://twitter.com/{{ site.twitter_username }}">
+          <i class="icon-twitter"></i>
+          <span>{{ site.twitter_username }}</span>
+        </a>
+      </li>
+      {% endif %}
+      {% if site.youtube_channel %}
+      <li>
+        <a href="https://www.youtube.com/user/{{ site.youtube_channel }}">
+          <i class="icon-youtube"></i>
+          <span>{{ site.youtube_channelname | site.youtube_channel }}</span>
+        </a>
+      </li>
+      {% endif %}
+      {% if site.linkedin_profile %}
+      <li>
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_profile }}">
+          <i class="icon-linkedin"></i>
+          <span>{{ site.linkedin_name | site.linkedin_profile }}</span>
+        </a>
+      </li>
+      {% endif %}
+      {% if site.reddit_username %}
+      <li>
+        <a href="https://twitter.com/{{ site.twitter_username }}">
+          <i class="icon-reddit-alien"></i>
+          <span class="username">{{ site.reddit_username }}</span>
+        </a>
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+</footer>
