@@ -3,7 +3,7 @@ email: jordan@jordananderson.us
 description: > # this means to ignore newlines until "baseurl:"
   This is primarily just a place for me to document things that I otherwise would forget.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jordananderson.us" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jordananders.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
